@@ -1,0 +1,46 @@
+
+Nouns 
+
+* database of shady characters -- implement in RAM as a BST keyed on name
+
+* character.txt file
+  + consists of zero or more records about one character
+     - name is a field
+     - attribute list is a field 
+     - what else is a field?
+       ^ elimination from suspicion?
+
+* list of attributes
+
+* list of suspects
+
+* INQUIRY code name
+
+* flag change to character list
+
+Verbs
+
+* Input character.txt near start of execution
+  + transfers information into in-RAM BST
+
+* Narrow down list of suspects
+
+* Do interaction with user (after input of character.txt)
+
+* input commands
+
+* do ADD command
+
+* do INQUIRY command
+
+* do TIP command
+  + reduce list of suspects
+  + print message to say only one more suspect
+  + print message to say no more suspects
+
+* do CHECK name command
+
+* do PRINT suspects command
+
+* do QUIT command
+  + update character.txt if necessary

@@ -1,0 +1,14 @@
+Name:
+Test Case 1
+Attributes:
+heavy smoker
+plays poker
+foreign accent
+$
+Name:
+Test Case 2
+Attributes:
+heavy drinker
+plays blackjack
+caucasian
+$
